@@ -1,7 +1,32 @@
 # python-challenge
 Week 3 Challenge
 
-## PyBank Instructions
+#Results
+
+###PyBank
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 (1862002)
+Greatest Decrease in Profits: Feb-14 (-1825558)
+
+
+###PyPoll
+Election Results
+----------------------------
+Total Votes: 369711
+----------------------------
+Charles Casper Stockham: 23.049% (85213)
+Diana DeGette: 73.812% (272892)
+Raymon Anthony Doane: 3.139% (11606)
+----------------------------
+Winner: Diana DeGette
+----------------------------
+
+
+# PyBank Instructions
 
 In this challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses". (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 
